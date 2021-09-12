@@ -1,0 +1,49 @@
+@font-face {
+    font-family: Inter;
+    src: url('../fonts/Inter-Regular.ttf');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: Inter;
+    src: url('../fonts/Inter-SemiBold.ttf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Inter;
+    src: url('../fonts/Inter-Bold.ttf');
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url('../fonts/Poppins-Regular.ttf');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url('../fonts/Poppins-Medium.ttf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url('../fonts/Poppins-Bold.ttf');
+    font-weight: 800;
+}
+
+body{
+    margin-top: 2vw;
+    font-family: Poppins;
+    font-weight: 300 !important;
+}
+.hyre{
+    font-family: Inter;
+    font-weight: 800;
+    font-size: 100px;
+}
+button{
+    font-weight: 500
+}
