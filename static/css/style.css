@@ -47,3 +47,10 @@ body{
 button{
     font-weight: 500
 }
+
+footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
