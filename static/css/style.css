@@ -52,5 +52,6 @@ footer {
     position: fixed;
     height: 100px;
     bottom: 0;
+    margin-bottom: -2vw;
     width: 100%;
 }
