@@ -54,3 +54,16 @@ footer{
     bottom: 0;
     width: 100%;
 }
+a{
+    text-decoration: none;
+    color: white;
+}
+.open-roles{
+    font-family: Inter;
+}
+.card{
+    font-family: Poppins;
+    background-color: #FDFDFD;
+    border-radius: 5x;
+    filter: drop-shadow(0px 1px 1px #CFCFCF);
+}
